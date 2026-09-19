@@ -31,7 +31,13 @@ This project explores sales and profitability trends across regions, categories,
 
 # Files
 - `Superstore-Sales-Dashboard.docx` — full dashboard export
-- Screenshots (if included)
+
+## 📸 Dashboard Preview
+**Overview Page**
+![Overview Page](./overview.png)
+
+**Profitability Page**
+![Profitability Page](./profitability.png)
 
 # About
 Built as a portfolio project while learning Power BI. Dataset: Sample Superstore dataset (Sales, Orders, Returns).
