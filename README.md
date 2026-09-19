@@ -1,15 +1,15 @@
-# Superstore Sales & Profitability Dashboard
+## Superstore Sales & Profitability Dashboard
 
 An end-to-end Power BI project analyzing sales, profit, and shipping performance for a retail superstore dataset, built to answer 12 real business questions across two dashboard pages.
 
-# Overview
+## Overview
 This project explores sales and profitability trends across regions, categories, customer segments, and time, using Power BI Desktop. It includes data cleaning in Power Query, a custom date table with time-intelligence DAX, and interactive visuals with slicers synced across pages.
 
-# Dashboard Pages
+## Dashboard Pages
 - **Overview** — Total Sales, Profit, Orders, Profit Margin %, sales by region/category, top 10 customers, YoY growth trend
 - **Profitability** — Profit by segment, discount vs. profit analysis, shipping time by ship mode, and a what-if discount cap simulator
 
-# Business Questions Answered
+## Business Questions Answered
 1. What are total sales, profit, and order volume?
 2. Which regions and categories drive the most sales?
 3. How does profit margin vary by category?
@@ -22,19 +22,19 @@ This project explores sales and profitability trends across regions, categories,
 10. Are best-sellers by quantity the same as best-sellers by revenue?
 11–12. What-if analysis: simulated profit under different discount caps
 
-# Tools & Techniques
+## Tools & Techniques
 - Power BI Desktop (Power Query, DAX, Data Modeling)
 - Custom Date table + time-intelligence (SAMEPERIODLASTYEAR, DATEDIFF)
 - Calculated measures: RANKX, DIVIDE, SWITCH, SUMX, CALCULATE
 - What-if parameter for discount cap simulation
 - Conditional formatting, synced slicers, custom theme
 
-## 📸 Dashboard Preview
+## Dashboard Preview
 **Overview Page**
 ![Overview Page](./overview.png)
 
 **Profitability Page**
 ![Profitability Page](./profitability.png)
 
-# About
+## About
 Built as a portfolio project while learning Power BI. Dataset: Sample Superstore dataset (Sales, Orders, Returns).
