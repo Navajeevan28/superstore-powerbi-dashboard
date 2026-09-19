@@ -29,9 +29,6 @@ This project explores sales and profitability trends across regions, categories,
 - What-if parameter for discount cap simulation
 - Conditional formatting, synced slicers, custom theme
 
-# Files
-- `Superstore-Sales-Dashboard.docx` — full dashboard export
-
 ## 📸 Dashboard Preview
 **Overview Page**
 ![Overview Page](./overview.png)
