@@ -1,4 +1,4 @@
-# Superstore Sales & Profitability Dashboard:
+# Superstore Sales & Profitability Dashboard
 
 An end-to-end Power BI project analyzing sales, profit, and shipping performance for a retail superstore dataset, built to answer 12 real business questions across two dashboard pages.
 
