@@ -30,7 +30,7 @@ This project explores sales and profitability trends across regions, categories,
 - Conditional formatting, synced slicers, custom theme
 
 # Files
-- `Superstore-Dashboard.pdf` — full dashboard export
+- `Superstore-Sales-Dashboard.docx` — full dashboard export
 - Screenshots (if included)
 
 # About
